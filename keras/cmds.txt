@@ -1,0 +1,5 @@
+conda create -n tensorflow_env tensorflow
+
+
+conda create -n tensorflow_gpuenv tensorflow-gpu
+conda activate tensorflow_gpuenv
